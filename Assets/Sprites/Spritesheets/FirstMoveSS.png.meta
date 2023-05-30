@@ -1,0 +1,1129 @@
+fileFormatVersion: 2
+guid: c7640d268bb890642b21b5bb33a706ae
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FirstMoveSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3582
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd5ba9ca9e5e0e478d909af49708d79
+      internalID: 56838451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_1
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 3582
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a118ff1288b844b8db3b7762b1946f
+      internalID: -1912506248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_2
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 3582
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c218022657e12d448ac196312e7b1f62
+      internalID: -1470624613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_3
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 3582
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a90e688ff9aead409f3e3f449f0d43d
+      internalID: -804267328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_4
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 3582
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86e376524f18334e9183527e629ee83
+      internalID: -133595931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_5
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 3582
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415c74645f5eb14469208cfe99a3c92d
+      internalID: -858055626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_6
+      rect:
+        serializedVersion: 2
+        x: 6378
+        y: 3582
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c1e98e955e92749ae6b3b368b1f2e7
+      internalID: 1355379110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2985
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12c8d5eca11c6741a8f0ea5e35e645e
+      internalID: 1633645632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_8
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 2985
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f81153123c1f74f951175982955341
+      internalID: -1353913476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_9
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 2985
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4176f08c9e482d349a3554ead0f0898b
+      internalID: 1790202029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_10
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 2985
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911094f26ec8f7e46aca2cbe2f810871
+      internalID: -1657780961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_11
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 2985
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62599f540c10f8e4cb84ffee9f6293a1
+      internalID: -1103228645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_12
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 2985
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8ef107b023a5f45a83d88e0fb646d9
+      internalID: 1621316967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_13
+      rect:
+        serializedVersion: 2
+        x: 6378
+        y: 2985
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3244066744beaf942980ba972957b364
+      internalID: 89891491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2388
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f9cad188bf87a43b0ce9c56787bf42
+      internalID: -1529671565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_15
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 2388
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9354617a45d335241a231b011f565a45
+      internalID: -1984892323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_16
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 2388
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dd9d8bafb6f1c46a2f6ef1a95ad6d6
+      internalID: 1769067918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_17
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 2388
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581c46c498da62a489cdb3d1f3603d27
+      internalID: 656187087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_18
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 2388
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd3b9447a5c1444eab08041e85de3ef
+      internalID: 1298664808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_19
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 2388
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50f771898808854d98d0ed97158a040
+      internalID: 1092316379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_20
+      rect:
+        serializedVersion: 2
+        x: 6378
+        y: 2388
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c555cb934813a46bc6d7ba94a9f766
+      internalID: 1986506029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1791
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14241b603b5a1694f99ef9c26aa062d2
+      internalID: 2058541955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_22
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1791
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2803da28c701884c94686cc73ba2d49
+      internalID: 757078245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_23
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 1791
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c50204848c1ef943aec63de370b77fe
+      internalID: -331567918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_24
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 1791
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6772c4176a9cad4a9622e00ffa63e95
+      internalID: 1332345312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_25
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 1791
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56a561b501fe7e4b9bfc11657c0cf70
+      internalID: 780053571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_26
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 1791
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1431478dab8bdd545992c05ce3175544
+      internalID: 405880248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_27
+      rect:
+        serializedVersion: 2
+        x: 6378
+        y: 1791
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd87a603bc48b2b4aa8edd7f96c46957
+      internalID: 45582985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1194
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff07ba147fd8d242a4f2a4cf6f30342
+      internalID: -469015127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_29
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1194
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c35a054f6fc0d46ae8c439c2ab1633
+      internalID: 1302853822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_30
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 1194
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97c8094a5ac6394a9b68b308b9f11c0
+      internalID: -351397797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_31
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 1194
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f6bb5af50f33a4b9e7be2bcea9de6f
+      internalID: -1144353522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_32
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 1194
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ea8da904a492d4788911f8b4dfcee9
+      internalID: 893640761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_33
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 1194
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3525087c12d23864db6fe1b31325dc29
+      internalID: 1322628470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_34
+      rect:
+        serializedVersion: 2
+        x: 6378
+        y: 1194
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c20e0d650ba194cb5bb4abdc527ea7
+      internalID: 341972366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 597
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672a7c6dd2bc59e4eb5ccf20a1e8f71f
+      internalID: 1711797615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_36
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 597
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3810ca6b566e9e4ba8208e9e6f0bb1e
+      internalID: 356830109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_37
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 597
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2fe07b4168da049978bbfe513ffe61
+      internalID: 900930035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_38
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 597
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0026f83dc5870d64cbbdc358574921fe
+      internalID: 851082149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_39
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 597
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f59519fd8bd17140a69bcaa0574af64
+      internalID: -343354406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_40
+      rect:
+        serializedVersion: 2
+        x: 5315
+        y: 597
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91a49a883d25354c8f84c842cb3b7db
+      internalID: -984464278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_41
+      rect:
+        serializedVersion: 2
+        x: 6378
+        y: 597
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a35c97b403feed4db12cba3f902f2b6
+      internalID: -159694825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddefc2504e8fdc49bd6b4e8672836df
+      internalID: -1856043550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_43
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 0
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74bb9e7a6a9040469413d165b2a7ce3
+      internalID: 815632430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstMoveSS_44
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 0
+        width: 1063
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74ec3e0dd6bc1e4180a991b3e8e4dd0
+      internalID: -535343480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2295388c68663334eb57786a9193bcfc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FirstMoveSS_3: -804267328
+      FirstMoveSS_30: -351397797
+      FirstMoveSS_25: 780053571
+      FirstMoveSS_7: 1633645632
+      FirstMoveSS_47: -1763980545
+      FirstMoveSS_42: -1856043550
+      FirstMoveSS_31: -1144353522
+      FirstMoveSS_14: -1529671565
+      FirstMoveSS_26: 405880248
+      FirstMoveSS_0: 56838451
+      FirstMoveSS_11: -1103228645
+      FirstMoveSS_43: 815632430
+      FirstMoveSS_37: 900930035
+      FirstMoveSS_17: 656187087
+      FirstMoveSS_8: -1353913476
+      FirstMoveSS_22: 757078245
+      FirstMoveSS_34: 341972366
+      FirstMoveSS_12: 1621316967
+      FirstMoveSS_20: 1986506029
+      FirstMoveSS_38: 851082149
+      FirstMoveSS_5: -858055626
+      FirstMoveSS_10: -1657780961
+      FirstMoveSS_9: 1790202029
+      FirstMoveSS_41: -159694825
+      FirstMoveSS_13: 89891491
+      FirstMoveSS_29: 1302853822
+      FirstMoveSS_46: 1098021519
+      FirstMoveSS_45: 1642196660
+      FirstMoveSS_44: -535343480
+      FirstMoveSS_19: 1092316379
+      FirstMoveSS_28: -469015127
+      FirstMoveSS_18: 1298664808
+      FirstMoveSS_40: -984464278
+      FirstMoveSS_35: 1711797615
+      FirstMoveSS_2: -1470624613
+      FirstMoveSS_23: -331567918
+      FirstMoveSS_48: 1266229313
+      FirstMoveSS_4: -133595931
+      FirstMoveSS_27: 45582985
+      FirstMoveSS_15: -1984892323
+      FirstMoveSS_24: 1332345312
+      FirstMoveSS_6: 1355379110
+      FirstMoveSS_36: 356830109
+      FirstMoveSS_33: 1322628470
+      FirstMoveSS_16: 1769067918
+      FirstMoveSS_39: -343354406
+      FirstMoveSS_1: -1912506248
+      FirstMoveSS_32: 893640761
+      FirstMoveSS_21: 2058541955
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
